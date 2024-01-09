@@ -9,5 +9,6 @@ This was my final project for ART 132 (Intro to Graphic Design), where I was req
   - Using p5.js, I applied Perlin noise (which I discovered in CPSC 334, as well) to the construction and shape of the capital letters of 'Helvetica.'
 
 
-Poster
+Font
 --------
+- A screenshot taken randomly:
