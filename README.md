@@ -11,6 +11,7 @@ This was my final project for ART 132 (Intro to Graphic Design), where I was req
 
 Font Alphabet (gif + static)
 --------
+![Font gif](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/font-gif.gif)
 ![Font Poster](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/alphabet-poster.PNG?raw=true)
 
 
