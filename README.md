@@ -12,3 +12,4 @@ This was my final project for ART 132 (Intro to Graphic Design), where I was req
 Font
 --------
 - A screenshot taken randomly:
+![Font Poster](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/font-poster.png?raw=true)
