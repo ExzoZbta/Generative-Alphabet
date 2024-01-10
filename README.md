@@ -18,4 +18,4 @@ Font Alphabet (gif + static
 --------
 ![Hello World gif](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/hello-world-1920x1080.gif?raw=true)
 
-![Hello World static](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/hello-world-screenshot.png)
+![Hello World static](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/hello-world-static.png)
