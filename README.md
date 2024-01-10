@@ -9,12 +9,13 @@ This was my final project for ART 132 (Intro to Graphic Design), where I was req
   - Using p5.js, I applied Perlin noise (which I discovered in CPSC 334, as well) to the construction and shape of the capital letters of 'Helvetica.'
 
 
-Font Alphabet
+Font Alphabet (gif + static
 --------
 ![Font Poster](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/alphabet-poster.PNG?raw=true)
-- A screenshot taken while running
 
 
-'Hello World' poster
+'Hello World' poster (gif + static)
 --------
-![Hello World Poster](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/hello-world-1920x1080.gif?raw=true)
+![Hello World gif](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/hello-world-1920x1080.gif?raw=true)
+
+![Hello World static](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/hello-world-screenshot.png)
