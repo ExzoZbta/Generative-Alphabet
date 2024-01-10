@@ -11,5 +11,5 @@ This was my final project for ART 132 (Intro to Graphic Design), where I was req
 
 Font Alphabet
 --------
-![Font Poster]()
+![Font Poster](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/static/alphabet-poster.PNG?raw=true)
 - A screenshot taken while running
