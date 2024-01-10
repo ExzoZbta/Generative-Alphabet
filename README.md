@@ -24,9 +24,10 @@ Font Alphabet (gif + static)
 Usage
 --------
 - Each letter has a corresponding folder containing what's needed to run the letter's animation on your preferred web browser.
-  example: [A-folder](https://github.com/ExzoZbta/Generative-Alphabet/tree/main/A-folder)
-  - [index.html](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/index.html): double-clicking on this file will load the letter on your preferred web browser.
-    - Hit F11 to make the browser window fullscreen.
-  - [sketch.js](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/sketch.js): the code for loading the base Helvetica font and drawing the letter.
-  - [style.css](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/style.css): styling for index.html on the web browser.
-  - [Helvetica.tff](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/Helvetica.ttf): Helvetica font framework distributed through p5.js.
+
+- Example: [A-folder](https://github.com/ExzoZbta/Generative-Alphabet/tree/main/A-folder)
+    - [index.html](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/index.html): double-clicking on this file will load the letter on your preferred web browser.
+      - Hit F11 to make the browser window fullscreen.
+    - [sketch.js](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/sketch.js): the code for loading the base Helvetica font and drawing the letter.
+    - [style.css](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/style.css): styling for index.html on the web browser.
+    - [Helvetica.tff](https://github.com/ExzoZbta/Generative-Alphabet/blob/main/A-folder/Helvetica.ttf): Helvetica font framework distributed through p5.js.
